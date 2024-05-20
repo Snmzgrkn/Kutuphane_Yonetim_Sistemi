@@ -96,7 +96,7 @@ Proje, katmanlı bir mimariye sahiptir:
 
 ## Katkıda Bulunanlar
 
-- İsim Soyisim - [GitHub Profiliniz](https://github.com/kullaniciadi)
+- Gürkan Sönmez- [](https://github.com/Snmzgrkn)
 
 ## Lisans
 
